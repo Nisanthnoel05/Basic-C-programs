@@ -1,2 +1,2 @@
 # Basic-C-programs
-Arithmetic calculator based on C++ programming language
+Basic codes based on C++ programming language
