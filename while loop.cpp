@@ -3,7 +3,7 @@ using namespace std;
 int main() {
     int i = 0;
     while (i < 5) {
-        cout << i << "hai";
+        cout << i << "hi";
         i++;
     }
     return 0;
